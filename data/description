@@ -1,6 +1,8 @@
-The original file exceeds the size limit that can be uploaded, and the sample file is provided to represent the original dataset. 
+The original file exceeds the size limit that can be uploaded, and the sample file is provided here. 
 UserID is the unique identifier of the desensitized user,
 BikeID denotes the unique identifier of the dockless bike,
 Start/End Time is the departure/arrival time (corresponding to opening/closing the lock) of each ride order record,
 Start/End Lng(Lat) is the latitude/longitude coordinates of the departure/arrival location recorded for each ride order.
 There are datasets including Beijing, Shanghai, Jinhua and Ningbo.
+However, due to NDA with HelloBike, we can't share the original dataset of Jinhua and Ningbo.
+Requests for the original datasets of Beijing and Shanghai can be sent to lir@buct.edu.cn
