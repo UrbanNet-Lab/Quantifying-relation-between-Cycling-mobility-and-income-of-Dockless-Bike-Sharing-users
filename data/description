@@ -1,9 +1,6 @@
-原始文件超出了可上传的大小限制，提供sample文件代表原数据集。
-UserID为脱敏后的用户唯一标识符，BikeID表示无桩单车的唯一标识符，Start/End Time为每一条骑行订单记录的离开/到达时间（对应开/关锁），Start/End Location为每条骑行订单记录的离开/到达地的经纬度坐标。
 The original file exceeds the size limit that can be uploaded, and the sample file is provided to represent the original dataset. 
 UserID is the unique identifier of the desensitized user,
 BikeID denotes the unique identifier of the dockless bike,
 Start/End Time is the departure/arrival time (corresponding to opening/closing the lock) of each ride order record,
 Start/End Lng(Lat) is the latitude/longitude coordinates of the departure/arrival location recorded for each ride order.
-
 There are datasets including Beijing, Shanghai, Jinhua and Ningbo.
