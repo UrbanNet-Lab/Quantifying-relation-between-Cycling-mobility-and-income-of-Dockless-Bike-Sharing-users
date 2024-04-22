@@ -1,4 +1,4 @@
-orderid,userid,bikeid,count_bike,start_time,end_time,start_location_x,start_location_y,end_location_x,end_location_y
+orderid,userid,bikeid,count_bike,start_time,end_time,start_lng,start_lat,end_lng,end_lat
 31290,4044,19170,0,2016/8/1 0:00,2016/8/1 0:34,121.401,31.28,121.426,31.241
 31291,4604,122357,0,2016/8/1 0:00,2016/8/1 0:18,121.506,31.267,121.486,31.272
 31289,1229,79699,0,2016/8/1 0:00,2016/8/1 0:10,121.525,31.316,121.52,31.309
